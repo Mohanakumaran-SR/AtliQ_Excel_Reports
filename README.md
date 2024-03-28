@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Customer Performance Report](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-697b5d77072c6387b56cdbf6c443598d4a5455ee22542c6a08cdf63c63699416)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-34044648117c65071315b1c03c6820dafe7395e30527bfb3e93298ffe193981b)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-130afb55c8d99b259e92c4e50b7b3f8f00bcf50dc2a912957113b6ac9e71a083)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-545f8599add1080c6444721c702e6845e4392997e650c072045080a45cb38181)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
