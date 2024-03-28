@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Performance Report](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-697b5d77072c6387b56cdbf6c443598d4a5455ee22542c6a08cdf63c63699416)_
+    **1.** Create a _[Customer Performance Report](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/blob/main/Customer%20Performance%20Report.pdf)_
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Mohanakumaran-SR/AtliQ_Excel_Reports/commit/686c451f5ba6901b0b68d30ceae5895ee862af6d#diff-34044648117c65071315b1c03c6820dafe7395e30527bfb3e93298ffe193981b)_
 
